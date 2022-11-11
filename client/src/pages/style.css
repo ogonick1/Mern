@@ -1,0 +1,12 @@
+.margin5 {
+  margin: 5px;
+}
+.margin10 {
+margin: 10px;
+}
+.active {
+  text-decoration: underline;
+}
+.opacity5{
+  opacity: 0.9;
+}
